@@ -1,6 +1,6 @@
 # Prediabetes Risk Assessment
 
-This repository contains a data science project aimed at predicting prediabetes risk in young adults in India, based on synthetic but realistic data. The project involves data processing, exploratory data analysis (EDA), feature engineering, and model training to identify key factors influencing prediabetes risk and provide actionable insights.
+This project aims to assess the risk of prediabetes among Indian youngsters aged from 15-25 based on various health and lifestyle factors.I aim to identify key factors that contribute to the risk of prediabetes and develop predictive models to assess individual risk levels. This can help in early detection and preventive measures to reduce the incidence of diabetes.
 
 ## Table of Contents
 
@@ -45,7 +45,11 @@ The dataset, "Diabetes in Young Adults in India," was sourced from Kaggle. It co
 ```
 Prediabetes_Risk_Assessment/
 │
-├── data/               # Raw and processed datasets
+├── data/               # Data Files
+│   ├── raw_data.csv    # Original dataset
+│   ├── processed_data.csv  # Preprocessed dataset
+│   ├── feature_engineered_data .csv  # Feature engineered dataset
+│    
 ├── notebooks/          # Jupyter notebooks 
     ├── 1_data_processing.ipynb
     ├── 2_eda.ipynb
