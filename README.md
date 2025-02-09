@@ -11,7 +11,6 @@ This project aims to assess the risk of prediabetes among Indian youngsters aged
 5. [Usage](#usage)
 6. [Technologies Used](#technologies-used)
 7. [Results](#results)
-8. [Future Improvements](#future-improvements)
 
 ## Overview
 
